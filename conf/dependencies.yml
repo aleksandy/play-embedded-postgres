@@ -1,0 +1,5 @@
+self: com.github.aleksandy -> play-embedded-postgres 1.5
+
+require:
+  - play
+  - ru.yandex.qatools.embed -> postgresql-embedded 2.6

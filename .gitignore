@@ -1,7 +1,10 @@
 # Ignore Play! working directory #
 bin/
 /db
-.eclipse
+/eclipse
+.settings
+.classpath
+.project
 /lib/
 /logs/
 /modules
